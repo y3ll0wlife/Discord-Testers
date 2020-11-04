@@ -8,7 +8,7 @@ siri crash 4868, 5278
 
 talk in different channel 5296, 5202,
 
-join locked vc invite 5507, 4927, 5956, (ext-ish) 6669, 6947
+join locked vc invite ~~5507~~, ~~4927~~, ~~5956~~, (ext-ish) 6669, 6947
 
 join locked vc thru profile (maybe ext ^) 7192, 7525, (ext-ish) 7330, (ext) 8344
 
@@ -127,3 +127,5 @@ move members into locked channels (maybe reported before) 8760, 9414, 9495
 game invite fails 5902, 6072?, 9134
 
 game invite shows without perms 5234, 8326, 8498
+
+ios change account info freeze 9402, 9496
