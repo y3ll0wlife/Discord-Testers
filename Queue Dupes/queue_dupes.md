@@ -18,7 +18,7 @@ member scroll persists 5842, 6373
 
 reload reset slowmode (dupe? or denied) 5860, (x-plat) 6237, 6985, 7477
 
-   send fail reset slowmode 4965?
+send fail reset slowmode 4965?
 
 no status after set 5957, 6048, 6594?, 6927, (x-plat/ext) 8530, 8539, 8599?, (ext)(2 cnr) 9021
 
@@ -48,9 +48,9 @@ cant gif server icon 6836, (x-plat) 9352, (x-plat)(resubmit 9352) 9364, (x-plat/
 
 mark folder read (muted servers?) 5141, 6846
 
-screenshare missing windows 6538, (ext-ish) 6710, 6730, 6890, 7089,  9253
+screenshare missing windows 6538, (ext-ish) 6710, 6730, 6890, 7089, 9253
 
-mutual servers presence scroll 6077, 6238, 7003, (*maybe* ext) 6428, 6902, 7129, (ext) 8278
+mutual servers presence scroll 6077, 6238, 7003, (_maybe_ ext) 6428, 6902, 7129, (ext) 8278
 
 folder click list scroll up (minor, dupe 475) 7308, 9285, 9385
 
@@ -64,7 +64,7 @@ view role search private 6782, 7903
 
 dm stream mouse trail 5145, 7270
 
-linux stream crash (dupe or unsupported) 7286, 7795, 
+linux stream crash (dupe or unsupported) 7286, 7795,
 
 linux pop out crash 7796, 7921, 8081
 
@@ -104,7 +104,7 @@ new unread channels scroll 4850, 8964
 
 dubai missing server region (rewrite) 5439, (rewrite or wait until ticket) 9065
 
-specific gifs that lag/crash client 7015, 8171, 9112, 
+specific gifs that lag/crash client 7015, 8171, 9112,
 
 spellcheck in markdown (likely nadb or unsupported) 6900, 9135
 
@@ -116,7 +116,7 @@ reaction modal send message 8946, 9240
 
 invite counting invisible users 6746, 9197
 
-ios exit stream freeze 9377, 9383, (maybe ext) 9395, 
+ios exit stream freeze 9377, 9383, (maybe ext) 9395,
 
 profile badge info cover 9407, 9408
 
@@ -127,4 +127,3 @@ move members into locked channels (maybe reported before) 8760, 9414, 9495
 game invite fails 5902, 6072?, 9134
 
 game invite shows without perms 5234, 8326, 8498
-

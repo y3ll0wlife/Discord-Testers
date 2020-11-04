@@ -1,7 +1,6 @@
 process = first of queue duped
 wait = queue dupe
 
-
 6782 process
 7903 wait (queue dupe)
 5145 process
@@ -242,7 +241,7 @@ wait = queue dupe
 6321 multiple clients
 6344 nab/fr?
 6354 report unclear but probably support
-6396 attach? https://youtu.be/4O3wbW3Wh4Y 
+6396 attach? https://youtu.be/4O3wbW3Wh4Y
 6411 nab
 6417 konami code?
 6427 nab?
@@ -448,4 +447,3 @@ wait = queue dupe
 7677 kinda minor
 7844 dupe? (masked link embed)
 7887 ext? (keyboard enter dont continue android)
-
