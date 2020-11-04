@@ -18,7 +18,7 @@ member scroll persists 5842, 6373
 
 reload reset slowmode (dupe? or denied) 5860, (x-plat) 6237, 6985, 7477
 
-	send fail reset slowmode 4965?
+   send fail reset slowmode 4965?
 
 no status after set 5957, 6048, 6594?, 6927, (x-plat/ext) 8530, 8539, 8599?, (ext)(2 cnr) 9021
 
