@@ -122,7 +122,7 @@ profile badge info cover 9407, 9408
 
 infinite notification settings (maybe dupe/denied) 6205, 9412
 
-move members into locked channels (maybe reported before) 8760, 9414
+move members into locked channels (maybe reported before) 8760, 9414, 9495
 
 game invite fails 5902, 6072?, 9134
 
