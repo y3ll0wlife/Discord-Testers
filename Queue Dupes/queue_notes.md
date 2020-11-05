@@ -199,7 +199,7 @@ wait = queue dupe
 9134 wait (queue dupe)  
 5234 process  
 8326 wait (queue dupe)  
-8498 wait (queue dupe)  
+8498 wait (queue dupe)
 
 5447 fr  
 5648 multiple clients  
@@ -324,7 +324,7 @@ wait = queue dupe
 7517 two approves  
 7525 easy cnr  
 7565 minor/momentary  
-7566 pixel bug?   
+7566 pixel bug?  
 7572 minor for a plethora of reasons?  
 7593 two CNR  
 7603 two CNR (ipad)  
@@ -406,8 +406,8 @@ wait = queue dupe
 8940 two cnr  
 9033 does it stay like this or does it fix after a bit?  
 9041 two cnr  
-9058 dupe/denied?   
-9082 smells like fr   
+9058 dupe/denied?  
+9082 smells like fr  
 9095 long text, and if the steps need to happen in one sitting then konami code/minor  
 9115 is this heic  
 9121 smells like eventual consistency in its actual meaning  
@@ -428,7 +428,7 @@ wait = queue dupe
 9266 minor/momentary or dupe  
 9281 troll or easy cnr/support  
 9291 nitro grace  
-9294 multiple clients   
+9294 multiple clients  
 9301 smells fr  
 9328 two approves  
 9379 easy to test  
@@ -446,4 +446,4 @@ wait = queue dupe
 7580 dupe/denied (android images cut off)  
 7677 kinda minor  
 7844 dupe? (masked link embed)  
-7887 ext? (keyboard enter dont continue android)  
+7887 ext? (keyboard enter dont continue android)
