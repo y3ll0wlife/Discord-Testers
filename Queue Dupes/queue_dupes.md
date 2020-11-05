@@ -128,4 +128,4 @@ game invite fails 5902, 6072?, 9134
 
 game invite shows without perms 5234, 8326, 8498
 
-ios change account info freeze 9402, 9496
+ios change account info freeze 9402, 9496, 9539
