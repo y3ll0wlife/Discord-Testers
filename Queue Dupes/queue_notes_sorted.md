@@ -397,7 +397,7 @@ wait = queue dupe
 9288 wait (queue dupe)  
 9291 nitro grace  
 9294 multiple clients  
-9301 smells fr   
+9301 smells fr  
 9322 did it used to do this or is it an fr?  
 9328 two approves  
 9331 wait (queue dupe)  
@@ -412,7 +412,7 @@ wait = queue dupe
 9377 process  
 9379 easy to test  
 9381 ext noted in deny  
-9383 wait (queue dupe)   
+9383 wait (queue dupe)  
 9385 process (desktop known dupe 475 minor)  
 9386 wait (queue dupe)  
 9388 invalid str  
@@ -427,4 +427,4 @@ wait = queue dupe
 9410 easy to test kinda minor  
 9412 wait (queue dupe)  
 9414 wait (queue dupe)  
-9427 ask if phone audio output, would be nab proximity sensor  
+9427 ask if phone audio output, would be nab proximity sensor
