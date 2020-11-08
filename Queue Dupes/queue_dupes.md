@@ -62,7 +62,7 @@ search indexing no load 5980, (maybe 6693??), 7241, 7267
 
 view role search private 6782, 7903
 
-dm stream mouse trail 5145, 7270
+dm stream mouse trail ~~5145~~, 7270
 
 linux stream crash (dupe or unsupported) 7286, 7795,
 
