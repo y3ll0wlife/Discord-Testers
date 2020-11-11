@@ -129,3 +129,5 @@ game invite fails 5902, 6072?, 9134
 game invite shows without perms 5234, 8326, 8498
 
 multiline codeblocks broken 10002, 10066, 10087, 10099
+
+android screenshare in status after stopping 10013, 10021, 10031
