@@ -47,4 +47,6 @@
 10839 ❌❌  
 10861 ❌❌ [LangFeedback]  
 10864 ❌  
-10892 ❌ [Dupe]
+10892 ❌❌ [Dupe]  
+10903 ❌❌ [Dupe]  
+10981 ❌ [Extension]
