@@ -107,7 +107,6 @@
 9476 ✔️  
 9648 ✔️  
 9692 ❌  
-9694 ❌ [Reinstall]  
 9703 ❌  
 9716 ❌❌ [Extension]  
 9744 ❌  
@@ -162,3 +161,4 @@
 10873 ❌❌ [FR]  
 10895 ❌  
 10897 ❌ [NAB]
+10965 ❌❌ [Duplicate of https://bugs.discord.com/T1743]
