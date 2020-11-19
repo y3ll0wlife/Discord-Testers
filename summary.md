@@ -2,8 +2,8 @@
 
 Total Interacted/Total Reports
 
-Android: 100/454  
-Desktop: 159/794  
+Android: 99/453  
+Desktop: 158/793  
 iOS: 39/110
 
-Total: 298/1357
+Total: 296/1355
