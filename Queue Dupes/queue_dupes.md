@@ -96,7 +96,7 @@ streamer escape mention shows discrim 7701, 8202
 
 channel still says live (dupe?) 8228, 8475 (resubmit)
 
-overlay character error 8310, 9354
+overlay other language character displaying in UTF-8 8310, 9354, 10499
 
 disabling users video mutes them (possible inconsistent?) 7406, 8248, 8388, 8589, (resubmit 8589) 8708, 8903
 
