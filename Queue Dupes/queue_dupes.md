@@ -90,7 +90,7 @@ emoji/gif picker off top screen (dupe/denied?) 6788?, 6986, 7131?, 7805, 7923, 8
 
 chrome not automarking read 8138, 8267
 
-in-app notifs borked 7823, 7831, (STR) 9009, (STR) 9057
+in-app notifs borked, 7831, 9057
 
 streamer escape mention shows discrim 7701, 8202
 
