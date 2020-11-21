@@ -118,8 +118,6 @@ invite counting invisible users 6746, 9197
 
 ios exit stream freeze 9377, 9383, (maybe ext) 9395,
 
-profile badge info cover 9407, 9408
-
 infinite notification settings (maybe dupe/denied) 6205, 9412
 
 move members into locked channels (maybe reported before) 8760, 9414, 9495
