@@ -34,7 +34,7 @@ no nav error hidden ch mention 6216, 6923
 
 mute and deaf dont deafen 6203, 8746
 
-sound dies after a time (x-plat) 6743, (x-plat) 7595, 9258?
+sound dies after a time 6743, 7595, (x-plat) 9258?, 11407
 
 people can't hear each other (immediately) 6579, 6970, 8200, (x-plat) 8639, 8747, 9479
 
