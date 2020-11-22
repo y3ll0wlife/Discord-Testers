@@ -14,6 +14,8 @@ join locked vc thru profile (maybe ext ^) 7192, 7525, (ext-ish) 7330, (ext) 8344
 
 spotify activity 5759, 5921, (x-plat/ext) 5966, 6281?, 9288
 
+spotify rich presence lingers 10876, 11386
+
 member scroll persists 5842, 6373
 
 reload reset slowmode (dupe? or denied) 5860, (x-plat) 6237, 6985, 7477
