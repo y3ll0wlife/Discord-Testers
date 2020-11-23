@@ -111,3 +111,6 @@ game invite shows without perms (https://imgur.com/a/ok93PRK minor) 8326, 8498
 android replied avatar doesnt open user profile 10705, 10734
 
 speak message reads code syntax lang 6230, 11368
+
+voice channel invite doesn't join voice channel 7132, 8199
+
