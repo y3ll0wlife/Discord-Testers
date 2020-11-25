@@ -114,3 +114,5 @@ speak message reads code syntax lang 6230, 11368
 
 voice channel invite doesn't join voice channel 7132, 8199
 
+follow the rules checkbox text language change 7321, 11950
+
