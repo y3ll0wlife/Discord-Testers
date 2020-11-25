@@ -108,7 +108,7 @@ game invite fails 5902, 6072?
 
 game invite shows without perms (https://imgur.com/a/ok93PRK minor) 8326, 8498
 
-android replied avatar doesnt open user profile 10705, 10734
+android replied avatar doesnt open user profile 10705
 
 speak message reads code syntax lang 6230, 11368
 
