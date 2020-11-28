@@ -28,7 +28,7 @@ game launcher status no clear 5969 (resubmit 5903)
 
 contact no work when samsung game 9038, 9051, approved: 9331
 
-edit stops being an edit 6065, 8617
+edit stops being an edit 6065, 8617, 12307, 12310
 
 no nav error hidden ch mention 6216, 6923
 
@@ -139,5 +139,5 @@ focus ring servers/folders don't go away 11986, 12223
 
 square focus for escape button sometimes 12008, 12109
 
-
+message reactions member list no focus/cant scroll 12297, 12335
 
