@@ -118,7 +118,7 @@ follow the rules checkbox text language change 7321, 11950
 
 desktop notifs say "com.squirrel.DiscordCanary.DiscordCanary" instead of Discord Canary 6244, 11832
 
-6653, 11363, 11838 (issue would be 6653, not streamer mode. if 6653 is too minor 11838 may end up valid as described cuz streamer mode)
+formatting characters shown in desktop notifs 6653, 11363, 11838 (issue would be 6653, not streamer mode. if 6653 is too minor 11838 may end up valid as described cuz streamer mode)
 
 send stickers no permissions 8144 (approved), 11681
 
