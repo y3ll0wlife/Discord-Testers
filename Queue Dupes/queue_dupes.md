@@ -128,8 +128,7 @@ gift skip button goes to pay screen gift 12264, 12293 (this has *got* to be NAB)
 
 
 ## [KEYBOARD NAV] <br />
-#### I'm declaring a blanket keyboard nav section for now so that we don't have to put the words keyboard nav in 
-some form in every description for them. Everything below here should involve keyboard nav
+### I'm declaring a blanket keyboard nav section for now so that we don't have to put the words keyboard nav in some form in every description for them. Everything below here should involve keyboard nav
 
 
 can't edit keybinds in keybind menu 11980, 12042
