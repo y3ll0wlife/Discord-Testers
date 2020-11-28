@@ -12,7 +12,7 @@ join locked vc thru profile (maybe ext ^) 7192, 7525, (ext-ish) 7330, (ext) 8344
 
 spotify activity 5759, 5921, (x-plat/ext) 5966, 6281?, 9288
 
-spotify rich presence lingers 10876, 11386
+spotify rich presence lingers 10876
 
 member scroll persists 5842, 6373
 
@@ -115,4 +115,30 @@ speak message reads code syntax lang 6230, 11368
 voice channel invite doesn't join voice channel 7132, 8199
 
 follow the rules checkbox text language change 7321, 11950
+
+desktop notifs say "com.squirrel.DiscordCanary.DiscordCanary" instead of Discord Canary 6244, 11832
+
+6653, 11363, 11838 (issue would be 6653, not streamer mode. if 6653 is too minor 11838 may end up valid as described cuz streamer mode)
+
+send stickers no permissions 8144 (approved), 11681
+
+uploading HDR videos on iOS doesn't work 10318, 11463
+
+gift skip button goes to pay screen gift 12264, 12293 (this has *got* to be NAB)
+
+
+## [KEYBOARD NAV] <br />
+#### I'm declaring a blanket keyboard nav section for now so that we don't have to put the words keyboard nav in 
+some form in every description for them. Everything below here should involve keyboard nav
+
+
+can't edit keybinds in keybind menu 11980, 12042
+
+search results focus background stuff 12007, 12021
+
+focus ring servers/folders don't go away 11986, 12223
+
+square focus for escape button sometimes 12008, 12109
+
+
 
