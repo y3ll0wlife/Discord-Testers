@@ -3,7 +3,6 @@
 ✔️ = Approve  
 ❌ = Deny
 
-4868 ❌ [macOS]  
 5278 ❌ [macOS]  
 5405 ✔️  
 5707 ❌❌ [NAB]  
