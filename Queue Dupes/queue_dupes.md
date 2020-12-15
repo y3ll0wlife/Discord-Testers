@@ -4,8 +4,6 @@ DM no disconnect afk (dupe?) 6292, 7374
 
 voice indicator 5377, 9386?
 
-siri crash 4868, 5278
-
 join locked vc invite ~~5507~~, ~~4927~~, ~~5956~~, (ext-ish) 6669, 6947
 
 join locked vc thru profile (maybe ext ^) 7192, 7525, (ext-ish) 7330, (ext) 8344
