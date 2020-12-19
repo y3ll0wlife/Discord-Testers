@@ -84,10 +84,13 @@ anand#0001 (@Techno3600)
 11384 -
 
 
-!DyDestroyer#1027 (needs to be added to github, can use pull requests as of right now)
+!DyDestroyer#1027 
 11460 -
 
 11506 -
+Can Repro: !DyDestroyer#1027: iOS TestFlight v49.0 (build 22761) iPhone 11 Pro iOS 14.2 Apple Watch Series 6; WatchOS 7.0.2
+Cannot Repro: binchlord#0998: iPhone XR iOS 14.2 TestFlight 49.0 (22761) Apple Watch Series 5, WatchOS 7.1, cannot reproduce
+More apple watch users needed for testing. We should also retest, as the testflight version is outdated, and theres like 2 new watchOS versions.
 
 11584 -
 
