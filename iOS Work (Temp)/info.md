@@ -315,7 +315,7 @@ Forgi_Forgeth#7294 (@Forgi4G)
 13779 -
 
 
-Sanjay#0540 (@Infinityy1)
+Open Slot (anyone can take these. message me if you want them)
 13789 -
 
 13806 -
