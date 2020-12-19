@@ -5,7 +5,6 @@ If anyone else wants to help out just interact with this. This is just a spreads
 - Forgi_Forgeth#7294
 - idan#0002
 - !DyDestroyer#1027
-- Sanjay#0540
 - anand#0001
 
 anand#0001 (@Techno3600)
