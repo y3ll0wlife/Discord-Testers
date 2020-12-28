@@ -241,80 +241,79 @@ idan#0002 (needs to be added to github, can use pull requests as of right now)
 13316 -
 
 
-Forgi_Forgeth#7294 (@Forgi4G)
-13340 -
+Forgi_Forgeth#7294 (@Forgi4G)  
+13340 - Denied: Could not reproduce
 
-13356 -
+13356 - Possible extension of https://bugs.discord.com/T613. 
 
-13359 -
+13359 - Possible denial: Most likely NAB because the Memoji tab makes the UI unusable in the Notes app too. 
 
-13407 -
+13407 - Denied: Could not reproduce (Not really sure what the report entirely means but I followed the steps). 
 
-13411 -
+13411 - Possible denial: Too minor; Only happens with really bad internet when the friends list and DMs aren't available yet. 
 
-13426 -
+13426 - Denied: Could not reproduce. 
 
-13428 -
+13428 - Denied: Could not reproduce. 
 
-13430 -
+13430 - Denied: Feature Request; account connections do not update when the name is changed on the connection, changes take effect upon reconnecting.  
 
-13433 -
+13433 - Denied: Too minor because pressing buttons at a "fast rate" is too minor (https:dis.gd/bugs). 
 
-13453 -
+13453 - Denied: Could not reproduce. 
 
-13454 -
+13454 - Denied: Could not reproduce.  
 
-13493 -
+13493 - Denied: Could not reproduce, also queue dupe of 13453.  
 
-13572 -
+13572 - Denied: Extension of 753 (https://i.imgur.com/q38OaSR.png) which has been ruled out as NAB (https://gyazo.com/86202d66328c367cc4a2078b48cad2fc). 
 
-13575 -
+13575 - Unsure denial (please see): Likely minor because of long names.  
 
-13593 -
+13593 - Denied: Could not reproduce with the given steps (report was also hard to read).  
 
-13606 -
+13606 - Unsure: Likely an extension of a ticket where Discord still uses the microphone input when the user leaves the call.  
 
-13636 -
+13636 - Unsure: Feels intended from the list but that needs inquiries.  
 
-13643 -
+13643 - Unsure: Feels a bit minor, then again, need inquiries.  
 
-13660 -
+13660 - Denied: Invalid report due to the reporter not editing the report to have a clear and more descriptive title.  
 
-13671 -
+13671 - Denied: Not a bug because deleting a channel will put you into a random channel (iirc) or the channel you were last in (iirc).  
 
-13675 -
+13675 - Denied: Too minor, also, the step "get off the app for a bit" is not very descriptive of the time and likely requires waiting time so it is also too minor.    
+13679 - Possible denial: Not a bug because reaction overload or something? (Someone finish up the inquiry).    
 
-13679 -
+13704 - Denied: Could not reproduce.    
 
-13704 -
+13705 - Possible denial: Likely chance it is NAB because this feels like a compression thing.  
 
-13705 -
+13708 - Unsure: Bug is valid but the report is likely invalid and lacks good titles, also possible queue dupe of 12872.  
 
-13708 -
+13710 - Denied: Haven't experienced this before but I have no idea if it's relevant since I could not reproduce.   
 
-13710 -
+13712 - Possible denial: Could not reproduce this, the notice that the report specifies is legible and fully visible on my device, could be something to do with the light and dark theme with iOS too.  
 
-13712 -
+13728 - Very likely approval: Still can reproduce this but it involved the role experiment, but there was a stable release for the new role flow so maybe.   
 
-13728 -
+13739 - Unsure: Has role pages experiment, don't fully know.  
 
-13739 -
+13740 - Unsure: Same issue as 12872, 13340, 13493, 13708 13740; except 12872 is awaiting an edit since it's the first.  
 
-13740 -
+13741 - Cannot test: Reports requires iOS devices that have a home button.   
 
-13741 -
+13750 - Denied: Duplicate of https://bugs.discord.com/T1718.   
 
-13750 -
+13751 - Denied: As of the latest TestFlight builds after 53.0 (23168), the bug has been fixed in 53.0 (23209) and later versions, and could I not reproduce anymore.  
 
-13751 -
+13755 - Denied: Could not reproduce and the reporter could no longer reproduce it (https://canary.discord.com/channels/197038439483310086/734445631166218252/788852183810179133).  
 
-13755 -
+13767 - Denied: Could not reproduce.  
 
-13767 -
+13774 - Unsure: Earlier inquiries that the report could be too minor that I agree with (https://canary.discord.com/channels/197038439483310086/733499719267123200/789054960629186580).  
 
-13774 -
-
-13779 -
+13779 - Denied: Duplicate of https://bugs.discord.com/T1959.  
 
 
 Open Slot (anyone can take these. message me if you want them)
