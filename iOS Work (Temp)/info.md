@@ -301,7 +301,7 @@ Forgi_Forgeth#7294 (@Forgi4G)
 
 13740 - Unsure: Same issue as 12872, 13340, 13493, 13708 13740; except 12872 is awaiting an edit since it's the first.  
 
-13741 - Cannot test: Reports requires iOS devices that have a home button.   
+13741 - Cannot test: Report requires iOS devices that have a home button.   
 
 13750 - Denied: Duplicate of https://bugs.discord.com/T1718.   
 
