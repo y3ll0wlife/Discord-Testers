@@ -1,13 +1,5 @@
 # iOS Bugs During the Break
-**Since there are only 185 bugs in the queue, four people have decided to split the bugs among them with a goal of having 0 iOS bugs when the queue opens**
-If anyone else wants to help out just interact with this. This is just a spreadsheet to keep track of all the iOS bugs.
 
-- Forgi_Forgeth#7294
-- idan#0002
-- !DyDestroyer#1027
-- anand#0001
-
-anand#0001 (@Techno3600)
 
 7603 -
 
@@ -163,7 +155,7 @@ More apple watch users needed for testing. We should also retest, as the testfli
 12854 -
 
 
-idan#0002 (needs to be added to github, can use pull requests as of right now)
+
 12868 -
 
 12872 -
@@ -316,7 +308,7 @@ Forgi_Forgeth#7294 (@Forgi4G)
 13779 - Denied: Duplicate of https://bugs.discord.com/T1959.  
 
 
-Open Slot (anyone can take these. message me if you want them)
+
 13789 -
 
 13806 -
