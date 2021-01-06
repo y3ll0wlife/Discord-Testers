@@ -268,7 +268,7 @@ Additional Notes:
 
 13575 - Unsure denial (please see): Likely minor because of long names.  
 
-13593 - Denied: Could not reproduce with the given steps (report was also hard to read).  
+13593 - Denied: Could not reproduce with the given steps (report was also hard to read). ❌  
 
 13606 - Unsure: Likely an extension of a ticket where Discord still uses the microphone input when the user leaves the call.  
 
@@ -276,11 +276,11 @@ Additional Notes:
 
 13643 - Unsure: Feels a bit minor, then again, need inquiries.  
 
-13660 - Denied: Invalid report due to the reporter not editing the report to have a clear and more descriptive title.  
+~~13660 - Denied: Invalid report due to the reporter not editing the report to have a clear and more descriptive title.~~  
 
 13671 - Denied: Not a bug because deleting a channel will put you into a random channel (iirc) or the channel you were last in (iirc).  
 
-13675 - Denied: Too minor, also, the step "get off the app for a bit" is not very descriptive of the time and likely requires waiting time so it is also too minor.    
+13675 - Denied: Too minor, also, the step "get off the app for a bit" is not very descriptive of the time and likely requires waiting time so it is also too minor. ❌      
 13679 - Possible denial: Not a bug because reaction overload or something? (Someone finish up the inquiry).    
 
 ~~13704 - Denied: Could not reproduce.~~    
@@ -289,7 +289,7 @@ Additional Notes:
 
 13708 - Unsure: Bug is valid but the report is likely invalid and lacks good titles, also possible queue dupe of 12872.  
 
-13710 - Denied: Haven't experienced this before but I have no idea if it's relevant since I could not reproduce.   
+13710 - Denied: Haven't experienced this before but I have no idea if it's relevant since I could not reproduce. ❌  
 
 13712 - Possible denial: Could not reproduce this, the notice that the report specifies is legible and fully visible on my device, could be something to do with the light and dark theme with iOS too.  
 
@@ -301,17 +301,17 @@ Additional Notes:
 
 13741 - Cannot test: Report requires iOS devices that have a home button.   
 
-13750 - Denied: Duplicate of https://bugs.discord.com/T1718.   
+~~13750 - Denied: Duplicate of https://bugs.discord.com/T1718.~~   
 
-13751 - Denied: As of the latest TestFlight builds after 53.0 (23168), the bug has been fixed in 53.0 (23209) and later versions, and could I not reproduce anymore.  
+13751 - Denied: As of the latest TestFlight builds after 53.0 (23168), the bug has been fixed in 53.0 (23209) and later versions, and could I not reproduce anymore. ❌ 
 
-13755 - Denied: Could not reproduce and the reporter could no longer reproduce it (https://canary.discord.com/channels/197038439483310086/734445631166218252/788852183810179133).  
+13755 - Denied: Could not reproduce and the reporter could no longer reproduce it (https://canary.discord.com/channels/197038439483310086/734445631166218252/788852183810179133). ❌.  
 
-13767 - Denied: Could not reproduce.  
+13767 - Denied: Could not reproduce. ❌. 
 
 13774 - Unsure: Earlier inquiries that the report could be too minor that I agree with (https://canary.discord.com/channels/197038439483310086/733499719267123200/789054960629186580).  
 
-13779 - Denied: Duplicate of https://bugs.discord.com/T1959.  
+~~13779 - Denied: Duplicate of https://bugs.discord.com/T1959.~~  
 
 
 
