@@ -248,21 +248,21 @@ Additional Notes:
 
 13407 - Denied: Could not reproduce (Not really sure what the report entirely means but I followed the steps). ❌  
 
-13411 - Possible denial: Too minor; Only happens with really bad internet when the friends list and DMs aren't available yet. 
+13411 - Possible denial: Too minor; Only happens with really bad internet when the friends list and DMs aren't available yet.  
 
-13426 - Denied: Could not reproduce. 
+13426 - Denied: Could not reproduce. ❌  
 
-13428 - Denied: Could not reproduce. 
+13428 - Denied: Could not reproduce. ❌  
 
-13430 - Denied: Feature Request; account connections do not update when the name is changed on the connection, changes take effect upon reconnecting.  
+13430 - Denied: Feature Request; account connections do not update when the name is changed on the connection, changes take effect upon reconnecting. ❌  
 
-13433 - Denied: Too minor because pressing buttons at a "fast rate" is too minor (https:dis.gd/bugs). 
+13433 - Denied: Too minor because pressing buttons at a "fast rate" is too minor (https:dis.gd/bugs). ❌  
 
-13453 - Denied: Could not reproduce. 
+13453 - Denied: Could not reproduce. ❌  
 
-13454 - Denied: Could not reproduce.  
+13454 - Denied: Could not reproduce. ❌    
 
-13493 - Denied: Could not reproduce, also queue dupe of 13453.  
+13493 - Denied: Could not reproduce, also queue dupe of 13453. ❌    
 
 ~~13572 - Denied: Extension of 753 (https://i.imgur.com/q38OaSR.png) which has been ruled out as NAB (https://gyazo.com/86202d66328c367cc4a2078b48cad2fc).~~   
 
@@ -283,7 +283,7 @@ Additional Notes:
 13675 - Denied: Too minor, also, the step "get off the app for a bit" is not very descriptive of the time and likely requires waiting time so it is also too minor.    
 13679 - Possible denial: Not a bug because reaction overload or something? (Someone finish up the inquiry).    
 
-13704 - Denied: Could not reproduce.    
+~~13704 - Denied: Could not reproduce.~~    
 
 13705 - Possible denial: Likely chance it is NAB because this feels like a compression thing.  
 
