@@ -232,7 +232,7 @@ More apple watch users needed for testing. We should also retest, as the testfli
 
 13316 -
 
-
+## 4G
 Forgi_Forgeth#7294 (@Forgi4G)  
 13340 - Denied: Could not reproduce
 
