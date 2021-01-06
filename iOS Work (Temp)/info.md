@@ -234,13 +234,19 @@ More apple watch users needed for testing. We should also retest, as the testfli
 
 ## 4G
 Forgi_Forgeth#7294 (@Forgi4G)  
-13340 - Denied: Could not reproduce
+Additional Notes:  
+- Reports that have been fully denied will have a strikethrough.  
+- Green or red ticks are added to obviously indicated approval / denial status: 
+  - ✅ = 1 Approval
+  - ❌ = 1 Denial
+  - ❓ = Report needs further decision or insight from other testers.  
+13340 - Denied: Could not reproduce ❌  
 
-13356 - Possible extension of https://bugs.discord.com/T613. 
+13356 - Possible extension of https://bugs.discord.com/T613. ❌  
 
-13359 - Possible denial: Most likely NAB because the Memoji tab makes the UI unusable in the Notes app too. 
+13359 - Possible denial: Most likely NAB because the Memoji tab makes the UI unusable in the Notes app too. ❓  
 
-13407 - Denied: Could not reproduce (Not really sure what the report entirely means but I followed the steps). 
+13407 - Denied: Could not reproduce (Not really sure what the report entirely means but I followed the steps). ❌  
 
 13411 - Possible denial: Too minor; Only happens with really bad internet when the friends list and DMs aren't available yet. 
 
@@ -258,7 +264,7 @@ Forgi_Forgeth#7294 (@Forgi4G)
 
 13493 - Denied: Could not reproduce, also queue dupe of 13453.  
 
-13572 - Denied: Extension of 753 (https://i.imgur.com/q38OaSR.png) which has been ruled out as NAB (https://gyazo.com/86202d66328c367cc4a2078b48cad2fc). 
+~~13572 - Denied: Extension of 753 (https://i.imgur.com/q38OaSR.png) which has been ruled out as NAB (https://gyazo.com/86202d66328c367cc4a2078b48cad2fc).~~   
 
 13575 - Unsure denial (please see): Likely minor because of long names.  
 
