@@ -158,7 +158,7 @@ More apple watch users needed for testing. We should also retest, as the testfli
 
 12868 -
 
-12872 -
+~~12872 -~~
 
 12885 -
 
