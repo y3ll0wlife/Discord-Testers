@@ -30,13 +30,13 @@ Pending 57.9 bugs:
 > Jumping to a server from the user Boost settings menu does not change the channel in center panel - 14767
 > Typing indicator in appearance settings preview is not where it should be - 14768
 > Able to add reactions without permission in chats - 14772
-> Creating a new server stays on "No Text Channels" screen - 14775
+> (actions do not save bug) Creating a new server stays on "No Text Channels" screen - 14775
 > (actions do not save bug) Create new group chat works but shows "operation took too long" - 14776 
 > (settings do not save bug) Delay in changing status and safe direct messaging settings - 14777
 > Deleted channel remains open even after deleted - 14779
 > ~~Jump to old message actually jumps to latest message - 14791~~ queue dupe
 > ~~Spotify song & album info in profile is corrupted - 14796~~ queue dupe
-> Deleting a server only updates on restart - 14809
+> (actions do not save bug) Deleting a server only updates on restart - 14809
 > Upload image option is missing in chats - 14829
 > No member selectable in Edit Channel > Permissions > Add Member - 14830
 > Users cannot be pinged - 14831
