@@ -31,7 +31,7 @@ Pending 57.9 bugs:
 > Typing indicator in appearance settings preview is not where it should be - 14768
 > (actions do not save bug) Creating a new server stays on "No Text Channels" screen - 14775
 > (actions do not save bug) Create new group chat works but shows "operation took too long" - 14776 
-> (settings do not save bug) Delay in changing status and safe direct messaging settings - 14777 (partly dupe of 14741)
+> (settings do not save bug) Delay in changing online status and safe direct messaging settings - 14777
 > Deleted channel remains open even after deleted - 14779
 > ~~Jump to old message actually jumps to latest message - 14791~~ queue dupe
 > ~~Spotify song & album info in profile is corrupted - 14796~~ queue dupe
@@ -41,7 +41,6 @@ Pending 57.9 bugs:
 > Users cannot be pinged - 14831
 > (settings do not save bug) Setting system message/inactive channel to none does not actually update settings - 14838
 > (settings do not save bug) Update theme while offline does not sync changes after returning online - 14840
-> (actions do not save bug) Custom status does not update - 14841
 > (settings do not save bug) Cannot connect to Facebook, Reddit - 14844
 > Description of custom emote of a server says 0 online when viewed in that server - 14849
 > Large blank space under all channels - 14853
@@ -60,6 +59,7 @@ Existing 57.9 bugs:
 > Connection / restart loop after loading messages - https://bugs.discord.com/T2007 / 14726
 
 Ticket dupes:
+> `T551 ` (actions do not save bug) Custom status does not update - 14841 (?)
 > `T2011` Double DM icons - 14787
 > `T2010` Server icons are blank in folders - 14888
 > `T2008` User roles do not load - 14880 (ext), 14877, 14855 (ext?), 14867
