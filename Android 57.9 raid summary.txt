@@ -59,7 +59,6 @@ Existing 57.9 bugs:
 > Connection / restart loop after loading messages - https://bugs.discord.com/T2007 / 14726
 
 Ticket dupes:
-> Notification settings huge gap - none
 > Double DM icons - 14857, 14787
 > Server icons are blank in folders - 14826, 14828
 > User roles do not load - 14880 (ext), 14877, 14867, 14774
@@ -71,7 +70,7 @@ Ticket dupes:
 Queue dupes:
 > Replying to a message doesn't show target message (14731) - 14825
 > Calls always show disconnected (14733) - 14738
-> Follow button missing when opening Discord app to an announcement channel (14749) - 14865
+> Follow button missing when opening Discord app to an announcement channel (14749) - 14887, 14865
 > Typing indicator in appearance settings preview is not where it should be (14768) - 14846
 > Direct messages remains open even after you close it (14756) - 14783
 > Changing moderation setting of server does not save changes (14748) - 14854
