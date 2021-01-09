@@ -58,8 +58,8 @@ Ticket dupes:
 > Notification settings huge gap - none
 > Double DM icons - 14818, 14787
 > Server icons are blank in folders - 14826, 14828
-> User roles do not load - 14848, 14845, 14839, 14774
-> Connection / restart loop after loading messages - 14848, 14833 (?), 14800, 14791 (ext)
+> User roles do not load - 14845, 14839, 14774
+> Connection / restart loop after loading messages - 14833 (?), 14800, 14791 (ext)
 
 Queue dupes:
 > Calls always show disconnected (14733) - 14738
