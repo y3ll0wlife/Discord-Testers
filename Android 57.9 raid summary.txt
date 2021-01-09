@@ -23,7 +23,6 @@ Pending 57.9 bugs:
 > Create new group chat works but shows "operation took too long" - 14776 
 > (settings do not save bug) Delay in changing status and safe direct messaging settings - 14777
 > Deleted channel remains open even after deleted - 14779
-> (settings do not save bug) DM or group chat notifications always says disabled in right menu - 14787
 > Jump to old message actually jumps to latest message - 14791
 > ~~Spotify song & album info in profile is corrupted - 14796~~ queue dupe
 > Deleting a server only updates on restart - 14809
@@ -43,7 +42,7 @@ Existing 57.9 bugs:
 
 Ticket dupes:
 > Notification settings huge gap - none
-> Double DM icons - 14818
+> Double DM icons - 14818, 14787
 > Server icons are blank in folders - 14826, 14828
 > User roles do not load - 14839, 14774
 > Connection / restart loop after loading messages - 14833 (?), 14800, 14791 (ext)
