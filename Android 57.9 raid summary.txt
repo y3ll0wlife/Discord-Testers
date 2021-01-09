@@ -1,5 +1,16 @@
 See commit history for changelog and latest update timestamp.
 
+Tarek, here's your most reported bugs list:
+> XYZ action do not save or takes a long time - 14748, 14751, 14766, etc.
+> Calls always show disconnected - 14733
+> Slash commands feature completely missing - 14736
+> Spotify song & album info in profile is corrupted - 14427
+> Server icons are blank in folders - https://bugs.discord.com/T2010 / 14725
+> User roles do not load - https://bugs.discord.com/T2008 / 14722
+> Connection / restart loop after loading messages - https://bugs.discord.com/T2007 / 14726
+
+--- Full information below ---
+
 Pending 57.9 bugs:
 > Replying to a message doesn't show target message - 14731
 > Calls always show disconnected - 14733
@@ -10,20 +21,20 @@ Pending 57.9 bugs:
 > Follow button missing when opening Discord app to an announcement channel - 14749
 > Server boost date is 31 Dec 2014 (seems unrelated) - 14750
 > (settings do not save bug) Enabling community in server settings does not save on first try - 14751
-> Editing a message takes several seconds to save - 14754
+> (actions do not save bug) Editing a message takes several seconds to save - 14754
 > Direct messages remains open even after you close it - 14756
 > User is typing... bar is missing in chats - 14757
-> Spotify rich presence disappears for a few seconds - 14762 queue dupe
+> Spotify rich presence disappears for a few seconds - 14762
 > Slowmode bar is missing in chats - 14765
 > (settings do not save bug) Server verification level change takes a long time to take effect - 14766
 > Jumping to a server from the user Boost settings menu does not change the channel in center panel - 14767
 > Typing indicator in appearance settings preview is not where it should be - 14768
 > Able to add reactions without permission in chats - 14772
 > Creating a new server stays on "No Text Channels" screen - 14775
-> Create new group chat works but shows "operation took too long" - 14776 
+> (actions do not save bug) Create new group chat works but shows "operation took too long" - 14776 
 > (settings do not save bug) Delay in changing status and safe direct messaging settings - 14777
 > Deleted channel remains open even after deleted - 14779
-> Jump to old message actually jumps to latest message - 14791
+> ~~Jump to old message actually jumps to latest message - 14791~~ queue dupe
 > ~~Spotify song & album info in profile is corrupted - 14796~~ queue dupe
 > Deleting a server only updates on restart - 14809
 > Upload image option is missing in chats - 14829
@@ -31,7 +42,7 @@ Pending 57.9 bugs:
 > Users cannot be pinged - 14831
 > (settings do not save bug) Setting system message/inactive channel to none does not actually update settings - 14838
 > (settings do not save bug) Update theme while offline does not sync changes after returning online - 14840
-> Custom status does not update - 14841
+> (actions do not save bug) Custom status does not update - 14841
 > (settings do not save bug) Cannot connect to Facebook, Reddit - 14844
 > Can invite users without permission - 14847
 
@@ -46,8 +57,8 @@ Ticket dupes:
 > Notification settings huge gap - none
 > Double DM icons - 14818, 14787
 > Server icons are blank in folders - 14826, 14828
-> User roles do not load - 14845, 14839, 14774
-> Connection / restart loop after loading messages - 14833 (?), 14800, 14791 (ext)
+> User roles do not load - 14848, 14845, 14839, 14774
+> Connection / restart loop after loading messages - 14848, 14833 (?), 14800, 14791 (ext)
 
 Queue dupes:
 > Calls always show disconnected (14733) - 14738
