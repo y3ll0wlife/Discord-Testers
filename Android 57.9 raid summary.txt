@@ -44,12 +44,13 @@ Pending 57.9 bugs:
 > (settings do not save bug) Update theme while offline does not sync changes after returning online - 14840
 > (actions do not save bug) Custom status does not update - 14841
 > (settings do not save bug) Cannot connect to Facebook, Reddit - 14844
-> Can invite users without permission - 14847
 > Description of custom emote of a server says 0 online when viewed in that server - 14849
-> Can see nickname option without permission - 14851
 > Large blank space under all channels - 14853
 > Member and role list absent in server settings - 14855
 > Clicking on channel mention not redirecting to channel - 14859
+> Send image button is not greyed out even when no permissions to send image - 14860
+> Image preview above text box is different from selected image - 14866
+> Users with nickname shown as username - 14876
 
 Existing 57.9 bugs:
 > Notification settings huge gap - https://bugs.discord.com/T2012 / 14721
@@ -62,18 +63,23 @@ Ticket dupes:
 > Notification settings huge gap - none
 > Double DM icons - 14857, 14787
 > Server icons are blank in folders - 14826, 14828
-> User roles do not load - 14845, 14839, 14774
-> Connection / restart loop after loading messages - 14833 (?), 14800, 14791 (ext)
+> User roles do not load - 14880 (ext), 14877, 14867, 14774
+    └ Likely root cause of: Able to add reactions without permission in chats - 14808, 14778, 14772
+    └ Likely root cause of: Can invite users without permission - 14847
+    └ Likely root cause of: Can see nickname option without permission - 14851
+> Connection / restart loop after loading messages - 14872, 14833 (?), 14800, 14791 (ext)
 
 Queue dupes:
 > Replying to a message doesn't show target message (14731) - 14825
 > Calls always show disconnected (14733) - 14738
-> Able to add reactions without permission in chats (14772) - 14778, 14808, possibly ext of user roles do not load?
+> Follow button missing when opening Discord app to an announcement channel (14749) - 14865
 > Typing indicator in appearance settings preview is not where it should be (14768) - 14846
 > Direct messages remains open even after you close it (14756) - 14783
 > Changing moderation setting of server does not save changes (14748) - 14854
-> Spotify song & album info in profile is corrupted (14427) - 14837, 14796, 14582, 14527, 14498, 14433
+> Spotify song & album info in profile is corrupted (14427) - 14871, 14837, 14796, 14582, 14527, 14498, 14433
 > Slash commands feature completely missing (14736) - 14812
+> Description of custom emote of a server says 0 online when viewed in that server (14849) - 14879
+> Send image button is not greyed out even when no permissions to send image (14860) - 14883
 
 Last bug report in queue before 57.9 bugs raid:
 > https://canary.discord.com/channels/197038439483310086/733499765924429824/797256286076010508
