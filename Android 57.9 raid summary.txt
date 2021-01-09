@@ -66,6 +66,7 @@ Ticket dupes:
 > Connection / restart loop after loading messages - 14833 (?), 14800, 14791 (ext)
 
 Queue dupes:
+> Replying to a message doesn't show target message (14731) - 14825
 > Calls always show disconnected (14733) - 14738
 > Able to add reactions without permission in chats (14772) - 14778, 14808, possibly ext of user roles do not load?
 > Typing indicator in appearance settings preview is not where it should be (14768) - 14846
