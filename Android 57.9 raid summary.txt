@@ -49,6 +49,7 @@ Pending 57.9 bugs:
 > Send image button is not greyed out even when no permissions to send image - 14860
 > Image preview above text box is different from selected image - 14866
 > Users with nickname shown as username - 14876
+> (settings do not save bug) Cannot change server region - 14892
 
 Existing 57.9 bugs:
 > Notification settings huge gap - https://bugs.discord.com/T2012 / 14721
