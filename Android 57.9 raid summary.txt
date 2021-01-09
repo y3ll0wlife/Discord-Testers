@@ -32,6 +32,7 @@ Pending 57.9 bugs:
 > Users cannot be pinged - 14831
 > Setting system message/inactive channel to none does not actually update settings - 14838
 > Update theme while offline does not sync changes after returning online - 14840
+> Custom status does not update - 14841
 
 Existing 57.9 bugs:
 > Notification settings huge gap - https://bugs.discord.com/T2012 / 14721
