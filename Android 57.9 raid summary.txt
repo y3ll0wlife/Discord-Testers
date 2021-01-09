@@ -32,6 +32,7 @@ Pending 57.9 bugs:
 > (settings do not save bug) Setting system message/inactive channel to none does not actually update settings - 14838
 > (settings do not save bug) Update theme while offline does not sync changes after returning online - 14840
 > Custom status does not update - 14841
+> (settings do not save bug) Cannot connect to Facebook, Reddit - 14844
 
 Existing 57.9 bugs:
 > Notification settings huge gap - https://bugs.discord.com/T2012 / 14721
