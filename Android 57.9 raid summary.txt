@@ -77,6 +77,7 @@ Queue dupes:
 > Changing moderation setting of server does not save changes (14748) - 14854
 > Spotify song & album info in profile is corrupted (14427) - 14871, 14837, 14796, 14582, 14527, 14498, 14433
 > Slash commands feature completely missing (14736) - 14812
+> Users cannot be pinged (14831) - 14898
 > Description of custom emote of a server says 0 online when viewed in that server (14849) - 14879
 > Send image button is not greyed out even when no permissions to send image (14860) - 14883
 
