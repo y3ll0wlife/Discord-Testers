@@ -60,7 +60,7 @@ Existing 57.9 bugs:
 
 Ticket dupes:
 > Notification settings huge gap - none
-> Double DM icons - 14818, 14787
+> Double DM icons - 14857, 14787
 > Server icons are blank in folders - 14826, 14828
 > User roles do not load - 14845, 14839, 14774
 > Connection / restart loop after loading messages - 14833 (?), 14800, 14791 (ext)
