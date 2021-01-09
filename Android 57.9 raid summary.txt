@@ -29,7 +29,6 @@ Pending 57.9 bugs:
 > (settings do not save bug) Server verification level change takes a long time to take effect - 14766
 > Jumping to a server from the user Boost settings menu does not change the channel in center panel - 14767
 > Typing indicator in appearance settings preview is not where it should be - 14768
-> Able to add reactions without permission in chats - 14772
 > (actions do not save bug) Creating a new server stays on "No Text Channels" screen - 14775
 > (actions do not save bug) Create new group chat works but shows "operation took too long" - 14776 
 > (settings do not save bug) Delay in changing status and safe direct messaging settings - 14777
