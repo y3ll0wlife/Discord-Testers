@@ -47,6 +47,7 @@ Pending 57.9 bugs:
 > Can invite users without permission - 14847
 > Description of custom emote of a server says 0 online when viewed in that server - 14849
 > Can see nickname option without permission - 14851
+> Large blank space under all channels - 14853
 
 Existing 57.9 bugs:
 > Notification settings huge gap - https://bugs.discord.com/T2012 / 14721
