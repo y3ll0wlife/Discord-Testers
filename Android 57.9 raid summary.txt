@@ -45,7 +45,6 @@ Pending 57.9 bugs:
 > (settings do not save bug) Cannot connect to Facebook, Reddit - 14844
 > Description of custom emote of a server says 0 online when viewed in that server - 14849
 > Large blank space under all channels - 14853
-> Member and role list absent in server settings - 14855
 > Clicking on channel mention not redirecting to channel - 14859
 > Send image button is not greyed out even when no permissions to send image - 14860
 > Image preview above text box is different from selected image - 14866
@@ -59,13 +58,13 @@ Existing 57.9 bugs:
 > Connection / restart loop after loading messages - https://bugs.discord.com/T2007 / 14726
 
 Ticket dupes:
-> Double DM icons - 14857, 14787
-> Server icons are blank in folders - 14826, 14828
-> User roles do not load - 14880 (ext), 14877, 14867, 14774
-    └ Likely root cause of: Able to add reactions without permission in chats - 14808, 14778, 14772
-    └ Likely root cause of: Can invite users without permission - 14847
-    └ Likely root cause of: Can see nickname option without permission - 14851
-> Connection / restart loop after loading messages - 14872, 14833 (?), 14800, 14791 (ext)
+> `T2011` Double DM icons - 14857, 14787
+> `T2010` Server icons are blank in folders - 14888, 14826, 14828
+> `T2008` User roles do not load - 14880 (ext), 14877, 14855 (ext?), 14867, 14774
+>     └ Likely root cause of: Able to add reactions without permission in chats - 14808, 14778, 14772
+>     └ Likely root cause of: Can invite users without permission - 14847
+>     └ Likely root cause of: Can see nickname option without permission - 14891, 14851
+> `T2007` Connection / restart loop after loading messages - 14872, 14833 (?), 14800, 14791 (ext)
 
 Queue dupes:
 > Replying to a message doesn't show target message (14731) - 14825
