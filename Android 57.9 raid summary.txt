@@ -48,6 +48,7 @@ Pending 57.9 bugs:
 > Description of custom emote of a server says 0 online when viewed in that server - 14849
 > Can see nickname option without permission - 14851
 > Large blank space under all channels - 14853
+> Member and role list absent in server settings - 14855
 
 Existing 57.9 bugs:
 > Notification settings huge gap - https://bugs.discord.com/T2012 / 14721
@@ -68,6 +69,7 @@ Queue dupes:
 > Able to add reactions without permission in chats (14772) - 14778, 14808, possibly ext of user roles do not load?
 > Typing indicator in appearance settings preview is not where it should be (14768) - 14846
 > Direct messages remains open even after you close it (14756) - 14783
+> Changing moderation setting of server does not save changes (14748) - 14854
 > Spotify song & album info in profile is corrupted (14427) - 14837, 14796, 14582, 14527, 14498, 14433
 > Slash commands feature completely missing (14736) - 14812
 
