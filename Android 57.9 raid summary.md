@@ -1,0 +1,58 @@
+See commit history for changelog and latest update timestamp.
+
+Pending 57.9 bugs:
+> Replying to a message doesn't show target message - 14731
+> Calls always show disconnected - 14733
+> Slash commands feature completely missing - 14736
+> Ping counter visually broken - 14737
+> Dark theme splash screen despite light theme settings - 14742
+> Changing moderation setting of server does not save changes - 14748
+> Follow button missing when opening Discord app to an announcement channel - 14749
+> Server boost date is 31 Dec 2014 (seems unrelated) - 14750
+> Enabling community in server settings does not save on first try - 14751
+> Editing a message takes several seconds to save - 14754
+> Direct messages remains open even after you close it - 14756
+> User is typing... bar is missing in chats - 14757
+> Spotify rich presence disappears for a few seconds - 14762 queue dupe
+> Slowmode bar is missing in chats - 14765
+> Server verification level change takes a long time to take effect - 14766
+> Jumping to a server from the user Boost settings menu does not change the channel in center panel - 14767
+> Typing indicator in appearance settings preview is not where it should be - 14768
+> Able to add reactions without permission in chats - 14772 (ext of User roles do not load?)
+> Creating a new server stays on "No Text Channels" screen - 14775
+> Create new group chat works but shows "operation took too long" - 14776 
+> Delay in changing status and safe direct messaging settings - 14777
+> Deleted channel remains open even after deleted - 14779
+> DM or group chat notifications always says disabled in right menu - 14787
+> Jump to old message actually jumps to latest message - 14791
+> ~~Spotify song & album info in profile is corrupted - 14796~~ queue dupe
+> Deleting a server only updates on restart - 14809
+> Upload image option is missing in chats - 14829
+> No member selectable in Edit Channel > Permissions > Add Member - 14830
+> Users cannot be pinged - 14831
+> Setting system message/inactive channel to none does not actually update settings - 14838
+> Update theme while offline does not sync changes after returning online - 14840
+
+Existing 57.9 bugs:
+> Notification settings huge gap - https://bugs.discord.com/T2012 / 14721
+> Double DM icons - https://bugs.discord.com/T2011 / 14728
+> Server icons are blank in folders - https://bugs.discord.com/T2010 / 14725
+> User roles do not load - https://bugs.discord.com/T2008 / 14722
+> Connection / restart loop after loading messages - https://bugs.discord.com/T2007 / 14726
+
+Ticket dupes:
+> Notification settings huge gap - none
+> Double DM icons - 14818
+> Server icons are blank in folders - 14826, 14828
+> User roles do not load - 14839, 14774
+> Connection / restart loop after loading messages - 14833 (?), 14800, 14791 (ext)
+
+Queue dupes:
+> Calls always show disconnected (14733) - 14738
+> Able to add reactions without permission in chats (14772) - 14778, 14808, possibly ext of user roles do not load?
+> Direct messages remains open even after you close it (14756) - 14783
+> Spotify song & album info in profile is corrupted (14427) - 14837, 14796, 14582, 14527, 14498, 14433
+> Slash commands feature completely missing (14736) - 14812
+
+Last bug report in queue before 57.9 bugs raid:
+> https://canary.discord.com/channels/197038439483310086/733499765924429824/797256286076010508
