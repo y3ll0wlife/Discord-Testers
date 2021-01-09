@@ -31,7 +31,7 @@ Pending 57.9 bugs:
 > Typing indicator in appearance settings preview is not where it should be - 14768
 > (actions do not save bug) Creating a new server stays on "No Text Channels" screen - 14775
 > (actions do not save bug) Create new group chat works but shows "operation took too long" - 14776 
-> (settings do not save bug) Delay in changing status and safe direct messaging settings - 14777
+> (settings do not save bug) Delay in changing status and safe direct messaging settings - 14777 (partly dupe of 14741)
 > Deleted channel remains open even after deleted - 14779
 > ~~Jump to old message actually jumps to latest message - 14791~~ queue dupe
 > ~~Spotify song & album info in profile is corrupted - 14796~~ queue dupe
