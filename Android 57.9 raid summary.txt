@@ -49,7 +49,7 @@ Pending 57.9 bugs:
 > Can see nickname option without permission - 14851
 > Large blank space under all channels - 14853
 > Member and role list absent in server settings - 14855
-> View server button in server list does not open server - 14856
+> Clicking on channel mention not redirecting to channel - 14859
 
 Existing 57.9 bugs:
 > Notification settings huge gap - https://bugs.discord.com/T2012 / 14721
