@@ -53,6 +53,7 @@ Pending 57.9 bugs:
 > Moving a server folder may move it to top of list / 14934
 > Game invitation always shows finished / 14942
 > Mutual servers & friends do not load / 14974
+> Animated emojis animate when play option is off / 14990
 
 Existing 57.9 bugs:
 > (actions do not save bug) Deleting a server only updates on restart - https://bugs.discord.com/T2248 / 14809
