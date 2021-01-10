@@ -57,6 +57,7 @@ Pending 57.9 bugs:
 > Mutual servers & friends do not load / 14974
 
 Existing 57.9 bugs:
+> (not 57.9 exclusive) Spotify song & album info in profile is corrupted - https://bugs.discord.com/T2246 / 14427
 > Able to add reactions without permission in chats - https://bugs.discord.com/T2245 / 14772
 > Viewing template crashes - https://bugs.discord.com/T2021 / 14906
 > Typing indicator in appearance settings preview is not where it should be - https://bugs.discord.com/T2018 / 14768
@@ -68,6 +69,7 @@ Existing 57.9 bugs:
 > Connection / restart loop after loading messages - https://bugs.discord.com/T2007 / 14726
 
 Ticket dupes:
+> `T2246` Spotify song & album info in profile is corrupted - 14937, 14871, 14837, 14796, 14582, 14527, 14498, 14433
 > `T2245` Able to add reactions without permission in chats - 14808, 14778
 > `T2018` Typing indicator in appearance settings preview is not where it should be - 14846
 > `T2017` Follow button missing when opening Discord app to an announcement channel - 14981, 14887, 14865
@@ -82,7 +84,6 @@ Queue dupes:
 > Calls always show disconnected (14733) - 14738
 > Direct messages remains open even after you close it (14756) - 14923, 14783
 > Changing moderation setting of server does not save changes (14748) - 14854
-> Spotify song & album info in profile is corrupted (14427) - 14937, 14871, 14837, 14796, 14582, 14527, 14498, 14433
 > Slash commands feature completely missing (14736) - 14812
 > Users cannot be pinged (14831) - 14898
 > Description of custom emote of a server says 0 online when viewed in that server (14849) - 14879
