@@ -54,6 +54,8 @@ Pending 57.9 bugs:
 > Game invitation always shows finished / 14942
 > Mutual servers & friends do not load / 14974
 > Animated emojis animate when play option is off / 14990
+> Channel icons are tiny in mention UI / 14998
+> Switching Voice Channel while in Video Mode sets the audio mode to Phone Mode / 15003
 
 Existing 57.9 bugs:
 > (actions do not save bug) Deleting a server only updates on restart - https://bugs.discord.com/T2248 / 14809
