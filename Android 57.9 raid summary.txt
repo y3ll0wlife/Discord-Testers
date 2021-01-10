@@ -32,7 +32,6 @@ Pending 57.9 bugs:
 > Deleted channel remains open even after deleted - 14779
 > ~~Jump to old message actually jumps to latest message - 14791~~ queue dupe
 > ~~Spotify song & album info in profile is corrupted - 14796~~ queue dupe
-> (actions do not save bug) Deleting a server only updates on restart - 14809
 > Upload image option is missing in chats - 14829
 > No member selectable in Edit Channel > Permissions > Add Member - 14830
 > Users cannot be pinged - 14831
@@ -56,6 +55,7 @@ Pending 57.9 bugs:
 > Mutual servers & friends do not load / 14974
 
 Existing 57.9 bugs:
+> (actions do not save bug) Deleting a server only updates on restart - https://bugs.discord.com/T2248 / 14809
 > (settings do not save bug) Changing moderation setting of server does not save changes - https://bugs.discord.com/T2247 / 14748
 > (not 57.9 exclusive) Spotify song & album info in profile is corrupted - https://bugs.discord.com/T2246 / 14427
 > Able to add reactions without permission in chats - https://bugs.discord.com/T2245 / 14772
