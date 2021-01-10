@@ -18,7 +18,6 @@ Pending 57.9 bugs:
 > Ping counter visually broken - 14737
 > Dark theme splash screen despite light theme settings - 14742
 > (settings do not save bug) Changing moderation setting of server does not save changes - 14748
-> Follow button missing when opening Discord app to an announcement channel - 14749
 > Server boost date is 31 Dec 2014 (seems unrelated) - 14750
 > (settings do not save bug) Enabling community in server settings does not save on first try - 14751
 > (actions do not save bug) Editing a message takes several seconds to save - 14754
@@ -28,7 +27,6 @@ Pending 57.9 bugs:
 > Slowmode bar is missing in chats - 14765
 > (settings do not save bug) Server verification level change takes a long time to take effect - 14766
 > Jumping to a server from the user Boost settings menu does not change the channel in center panel - 14767
-> Typing indicator in appearance settings preview is not where it should be - 14768
 > (actions do not save bug) Creating a new server stays on "No Text Channels" screen - 14775
 > (actions do not save bug) Create new group chat works but shows "operation took too long" - 14776 
 > (settings do not save bug) Delay in changing online status and safe direct messaging settings - 14777
@@ -50,8 +48,19 @@ Pending 57.9 bugs:
 > Users with nickname shown as username - 14876
 > (settings do not save bug) Cannot change server region - 14892
 > (settings do not save bug) Uploading new server icon takes seconds to apply - 14896
+> "Log me in" button on QR code never unlocks after minimizing - 14917
+> Group DM member list does not update - 14921
+> Slash command channel argument inserts blank space after channel name - 14922
+> Still hears deafen sound when sound is disabled in settings / 14930
+> Moving a server folder may move it to top of list / 14934
+> Game invitation always shows finished / 14942
+> Mutual servers & friends do not load / 14974
 
 Existing 57.9 bugs:
+> Able to add reactions without permission in chats - https://bugs.discord.com/T2245 / 14772
+> Viewing template crashes - https://bugs.discord.com/T2021 / 14906
+> Typing indicator in appearance settings preview is not where it should be - https://bugs.discord.com/T2018 / 14768
+> Follow button missing when opening Discord app to an announcement channel - https://bugs.discord.com/T2017 / 14749
 > Notification settings huge gap - https://bugs.discord.com/T2012 / 14721
 > Double DM icons - https://bugs.discord.com/T2011 / 14728
 > Server icons are blank in folders - https://bugs.discord.com/T2010 / 14725
@@ -59,23 +68,21 @@ Existing 57.9 bugs:
 > Connection / restart loop after loading messages - https://bugs.discord.com/T2007 / 14726
 
 Ticket dupes:
-> `T551 ` (actions do not save bug) Custom status does not update - 14841 (?)
-> `T2011` Double DM icons - 14787
-> `T2010` Server icons are blank in folders - 14888
-> `T2008` User roles do not load - 14880 (ext), 14877, 14855 (ext?), 14867
->     └ Likely root cause of: Able to add reactions without permission in chats - 14808, 14778, 14772
+> `T2245` Able to add reactions without permission in chats - 14808, 14778
+> `T2018` Typing indicator in appearance settings preview is not where it should be - 14846
+> `T2017` Follow button missing when opening Discord app to an announcement channel - 14981, 14887, 14865
+> `T2011` Double DM icons - 14933, 14787
+> `T2008` User roles do not load - 14980, 14855 (ext?)
 >     └ Likely root cause of: Can invite users without permission - 14847
->     └ Likely root cause of: Can see nickname option without permission - 14891
-> `T2007` Connection / restart loop after loading messages - 14833 (?), 14800, 14791 (ext)
+> `T2007` Connection / restart loop after loading messages - 14940 (?), 14800, 14791 (ext)
+> `T551 ` (actions do not save bug) Custom status does not update - 14841 (?)
 
 Queue dupes:
 > Replying to a message doesn't show target message (14731) - 14825
 > Calls always show disconnected (14733) - 14738
-> Follow button missing when opening Discord app to an announcement channel (14749) - 14887, 14865
-> Typing indicator in appearance settings preview is not where it should be (14768) - 14846
-> Direct messages remains open even after you close it (14756) - 14783
+> Direct messages remains open even after you close it (14756) - 14923, 14783
 > Changing moderation setting of server does not save changes (14748) - 14854
-> Spotify song & album info in profile is corrupted (14427) - 14871, 14837, 14796, 14582, 14527, 14498, 14433
+> Spotify song & album info in profile is corrupted (14427) - 14937, 14871, 14837, 14796, 14582, 14527, 14498, 14433
 > Slash commands feature completely missing (14736) - 14812
 > Users cannot be pinged (14831) - 14898
 > Description of custom emote of a server says 0 online when viewed in that server (14849) - 14879
