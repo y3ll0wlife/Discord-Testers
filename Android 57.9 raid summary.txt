@@ -17,7 +17,6 @@ Pending 57.9 bugs:
 > Slash commands feature completely missing - 14736
 > Ping counter visually broken - 14737
 > Dark theme splash screen despite light theme settings - 14742
-> (settings do not save bug) Changing moderation setting of server does not save changes - 14748
 > Server boost date is 31 Dec 2014 (seems unrelated) - 14750
 > (settings do not save bug) Enabling community in server settings does not save on first try - 14751
 > (actions do not save bug) Editing a message takes several seconds to save - 14754
@@ -56,7 +55,8 @@ Pending 57.9 bugs:
 > Game invitation always shows finished / 14942
 > Mutual servers & friends do not load / 14974
 
-Existing 57.9 bugs:
+Existing 57.9 bugs::
+> (settings do not save bug) Changing moderation setting of server does not save changes - https://bugs.discord.com/T2247 / 14748
 > (not 57.9 exclusive) Spotify song & album info in profile is corrupted - https://bugs.discord.com/T2246 / 14427
 > Able to add reactions without permission in chats - https://bugs.discord.com/T2245 / 14772
 > Viewing template crashes - https://bugs.discord.com/T2021 / 14906
@@ -68,7 +68,7 @@ Existing 57.9 bugs:
 > User roles do not load - https://bugs.discord.com/T2008 / 14722
 > Connection / restart loop after loading messages - https://bugs.discord.com/T2007 / 14726
 
-Ticket dupes:
+Ticket dupes
 > `T2246` Spotify song & album info in profile is corrupted - 14937, 14871, 14837, 14796, 14582, 14527, 14498, 14433
 > `T2245` Able to add reactions without permission in chats - 14808, 14778
 > `T2018` Typing indicator in appearance settings preview is not where it should be - 14846
