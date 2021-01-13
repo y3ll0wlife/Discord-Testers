@@ -5,8 +5,8 @@
 
 5405 ✔️ [Safari]  
  
-5781 ✔️ ❌ [Needs to be denied since the bug is 30+ days old according to the BA] 
-5841 ❌  
+5781 ✔️ ❌ [Needs to be denied since the bug is 30+ days old according to the BA]  
+5841 ❌   
 5850 ✔️  
 5871 ❌   
 5913 ❌ [Reinstall]   
