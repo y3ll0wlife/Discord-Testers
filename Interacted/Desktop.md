@@ -3,7 +3,7 @@
 ✔️ = Approve  
 ❌ = Deny
 
-5405 ✔️  [Safari]
+5405 ✔️ [Safari]  
 5713 ✔️  
 5781 ✔️  
 5841 ❌  
