@@ -1,5 +1,7 @@
 # iOS Bugs During the Break
 
+## List is outdated, new list coming along since I can't track all of the stuff
+
 
 7603 -
 
