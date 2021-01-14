@@ -246,7 +246,7 @@ Additional Notes:
 
 13356 - Possible extension of https://bugs.discord.com/T613. ❌  
 
-13359 - Possible denial: Most likely NAB because the Memoji tab makes the UI unusable in the Notes app too. ❓  
+~~13359 - Possible denial: Most likely NAB because the Memoji tab makes the UI unusable in the Notes app too. ~~  
 
 13407 - Denied: Could not reproduce (Not really sure what the report entirely means but I followed the steps). ❌  
 
@@ -299,7 +299,7 @@ Additional Notes:
 
 13739 - Unsure: Has role pages experiment, don't fully know.  
 
-13740 - Unsure: Same issue as 12872, 13340, 13493, 13708 13740; except 12872 is awaiting an edit since it's the first.  
+~~13740 - Unsure: Same issue as 12872, 13340, 13493, 13708 13740; except 12872 is awaiting an edit since it's the first.~~  
 
 13741 - Cannot test: Report requires iOS devices that have a home button.   
 
