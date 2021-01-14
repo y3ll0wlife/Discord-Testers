@@ -1,6 +1,6 @@
 # Safari-Specific Bugs for Discord
 12271  
-14043 ✅✅  
+~~14043 ✅✅✅~~  
 14165  
 15191 ❌  
 15247 ✅  
