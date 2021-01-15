@@ -1,4 +1,7 @@
-# Safari-Specific Bugs for Discord
+# Safari-Specific Bugs for Discord  
+✅ = 1 Approval  
+❌ = 1 Denial  
+
 12271  
 ~~14043 ✅✅✅~~  
 14165  
