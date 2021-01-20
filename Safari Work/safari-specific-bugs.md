@@ -1,4 +1,5 @@
-# Safari-Specific Bugs for Discord  
+# Safari-Specific Bugs for Discord 
+## List is outdated and Safari keyboard navigation bugs are put on hold, don't interact with this 
 ✅ = 1 Approval  
 ❌ = 1 Denial  
 
