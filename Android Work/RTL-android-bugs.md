@@ -83,3 +83,23 @@
 ------
 
 [RTL Layout] Account management (disable and delete account) do not follow RTL layout (Account settings) https://bugs.discord.com/T2337
+
+-------
+
+[RTL Layout] Changelog does not follow RTL layout (change log) https://bugs.discord.com/T2374
+
+------
+
+[RTL] The role names do not follow RTL layout in server roles menu ( Server roles) https://bugs.discord.com/T2375
+
+------
+
+[RtL Layout] "Tweak Notification Settings" is not right aligned (user Settings --> notifications ) https://bugs.discord.com/T2376
+
+------
+
+[RTL Layout] Notes are not in RTL layout (Mini profile) https://bugs.discord.com/T2377
+
+------
+
+[RTL] The mark as read/leave server/copy id buttons do not follow RTL layout ( Server menu) https://bugs.discord.com/T2379
