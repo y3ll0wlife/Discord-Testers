@@ -103,3 +103,7 @@
 ------
 
 [RTL] The mark as read/leave server/copy id buttons do not follow RTL layout ( Server menu) https://bugs.discord.com/T2379
+
+------
+
+[RtL Layout] Line above a reply points the wrong direction https://bugs.discord.com/T2391
