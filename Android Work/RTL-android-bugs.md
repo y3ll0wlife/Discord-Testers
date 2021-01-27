@@ -107,3 +107,8 @@
 ------
 
 [RtL Layout] Line above a reply points the wrong direction https://bugs.discord.com/T2391
+
+------
+
+[RTL] While opening user profile, the "manage user" does not follow RTL https://bugs.discord.com/T2447
+
