@@ -37,23 +37,6 @@ APNG no work 6926, 7009
 
 in-app notification gear 7168, 7209
 
-search indexing no load 5980, denied: 7241, 7267, 4441
-
-view role search private 6782, 7903
-
-linux stream crash (dupe or unsupported) 7286, 7795,
-
-linux pop out crash 7921, 8081
-
-type in locked channel 6789, 6913, 7299, (maybe ext?) 8144
-
-bouncing vc (dupe?) 7313, 7982
-
-non-interactive discord window (inconsistent str) (probably electron?) 6675, 7316, 7860, 8510
-
-stream show members possibly any of 5657, 7370
-
-announce community disabled (iirc dupe or denied) 6439, 7403
 
 
 
