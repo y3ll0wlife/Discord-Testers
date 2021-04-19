@@ -62,21 +62,6 @@ stream show members possibly any of 5657, 7370
 
 announce community disabled (iirc dupe or denied) 6439, 7403
 
-arrow keys no work 6907?, 7601
-
-can't see in light theme 7076, (ios)(1 cnr) 7650, 7663
-
-emoji/gif picker off top screen (dupe https://bugs.discord.com/T555 ?) 6788?, 7131?, 7805, 7923, 8412, (ext?) 8427
-
-chrome not automarking read 8138, 8267
-
-in-app notifs borked 7831, approved: 9009
-
-channel still says live (dupe?) 8475 (resubmitted)
-
-new unread channels scroll 8964
-
-dubai missing server region (rewrite) 5439, (rewrite or wait until ticket) 9065
 
 
 
