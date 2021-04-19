@@ -122,5 +122,4 @@ send stickers no permissions 8144 (approved), 11681
 
 uploading HDR videos on iOS doesn't work 10318, 11463
 
-gift skip button goes to pay screen gift 12264, 12293 (this has *got* to be NAB)
 
