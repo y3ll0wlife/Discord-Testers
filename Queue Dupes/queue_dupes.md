@@ -100,16 +100,5 @@ android replied avatar doesnt open user profile 10705
 
 speak message reads code syntax lang 6230, 11368
 
-voice channel invite doesn't join voice channel 7132, 8199
-
-follow the rules checkbox text language change 7321, 11950
-
-desktop notifs say "com.squirrel.DiscordCanary.DiscordCanary" instead of Discord Canary 6244, 11832
-
-formatting characters shown in desktop notifs 6653, 11363, 11838 (issue would be 6653, not streamer mode. if 6653 is too minor 11838 may end up valid as described cuz streamer mode)
-
-send stickers no permissions 8144 (approved), 11681
-
-uploading HDR videos on iOS doesn't work 10318, 11463
 
 
