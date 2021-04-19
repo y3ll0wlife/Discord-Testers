@@ -92,12 +92,6 @@ infinite notification settings (maybe dupe/denied) 6205, 9412
 
 move members into locked channels (maybe reported before) 8760, 9495
 
-game invite fails 5902, 6072?
-
-game invite shows without perms (https://imgur.com/a/ok93PRK minor) 8326, 8498
-
-android replied avatar doesnt open user profile 10705
-
 speak message reads code syntax lang 6230, 11368
 
 
