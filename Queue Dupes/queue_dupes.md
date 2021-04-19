@@ -78,21 +78,6 @@ new unread channels scroll 8964
 
 dubai missing server region (rewrite) 5439, (rewrite or wait until ticket) 9065
 
-specific gifs that lag/crash client 7015, 8171
-
-spellcheck in markdown (likely nadb or unsupported) 6900, 9135
-
-integrations 2fa load infinite (half of) 6202, 8852?, 9171
-
-stuck reactors popup (might be previously reported, probably denied minor) (resubmit? 6765) 6768, 9187
-
-reaction modal send message 8946, 9240
-
-infinite notification settings (maybe dupe/denied) 6205, 9412
-
-move members into locked channels (maybe reported before) 8760, 9495
-
-speak message reads code syntax lang 6230, 11368
 
 
 
