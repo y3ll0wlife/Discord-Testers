@@ -7,23 +7,6 @@ voice indicator 5377, 9386?
 join locked vc invite ~~5507~~, ~~4927~~, ~~5956~~, (ext-ish) 6669, 6947
 
 join locked vc thru profile (maybe ext ^) 7192, 7525, (ext-ish) 7330, (ext) 8344
-contact no work when samsung game 9038, 9051, approved: 9331
-
-edit stops being an edit 6065, 8617, 12307, 12310
-
-no nav error hidden ch mention 6216, 6923
-
-mute and deaf dont deafen 6203, 8746
-
-sound dies after a time 6743, 7595, (x-plat) 9258?, 11407
-
-people can't hear each other (immediately) 6579, 6970, 8200, (x-plat) 8639, 8747, 9479
-
-invite button without permission 6302, (x-plat/ext) 6719?
-
-mouse nav double navigates (linux?) 6396
-
-roles move on save (dupe?) 9219
 
 cant gif server icon 6836, (x-plat/ext banner, 2 CNR) 9367
 
