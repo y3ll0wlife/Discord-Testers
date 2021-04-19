@@ -7,13 +7,6 @@ voice indicator 5377, 9386?
 join locked vc invite ~~5507~~, ~~4927~~, ~~5956~~, (ext-ish) 6669, 6947
 
 join locked vc thru profile (maybe ext ^) 7192, 7525, (ext-ish) 7330, (ext) 8344
-
-spotify activity 5759, 5921, (x-plat/ext) 5966, 6281?, 9288
-
-status not delete (dupe?) 7101, 7804
-
-game launcher status no clear 5969 (resubmit 5903)
-
 contact no work when samsung game 9038, 9051, approved: 9331
 
 edit stops being an edit 6065, 8617, 12307, 12310
