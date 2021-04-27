@@ -2,8 +2,6 @@
 
 ✔️ = Approve  
 ❌ = Deny
-
-5405 ✔️ [Safari]  
  
 5781 ✔️ ❌ [Needs to be denied since the bug is 30+ days old according to the BA]  
 5841 ❌   
