@@ -8,7 +8,6 @@
 25170  
 25164  
 25162  
-24944 ❌❌ (Invalid client settings)   
 24924 ❌ (NAB?)  
 24863 ❌ (Duplicate of https://bugs.discord.com/T2936)  
 24651  
