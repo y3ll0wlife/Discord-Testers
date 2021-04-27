@@ -2,24 +2,7 @@
 
 ✔️ = Approve  
 ❌ = Deny
- 
-5781 ✔️ ❌ [Needs to be denied since the bug is 30+ days old according to the BA]  
-5841 ❌   
-5850 ✔️  
-5871 ❌   
-5913 ❌ [Reinstall]   
-5983 ❌❌  
-6054 ❌  
-6123 ❌  
-6146 ❌  
-6203 ❌  
-6238 ❌  
-6290 ❌  
-6306 ✔️  
-6321 ❌❌  
-6528 ❌  
-6538 ❌  
-6602 ❌  
+
 6669 ❌  
 6693 ❌  
 6698 ❌❌ [NAB]  
