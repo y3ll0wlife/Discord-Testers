@@ -412,21 +412,3 @@ wait = queue dupe
 9115 is this heic  
 9121 smells like eventual consistency in its actual meaning  
 9122 how common is this  
-9126 i feel like this was a thing a while ago  
-9127 time/hours bug  
-9150 two cnr/direct to https://dis.gd/install  
-9182 two cnr  
-9192 nab thats not what the setting means  
-9193 why would this be a problem  
-9196 easy cnr (i cnr)  
-9375 nab  
-9209 spamming + direct to https://dis.gd/install ?  
-9229 this sounds like corrupted app, ios people?  
-9243 two cnrs w/ potential ticket cited  
-9261 sounds like miniprofile bottom screen minor  
-9264 easy cnr/direct to support  
-9266 minor/momentary or dupe  
-9281 troll or easy cnr/support  
-9291 nitro grace  
-9294 multiple clients  
-9301 smells fr  
