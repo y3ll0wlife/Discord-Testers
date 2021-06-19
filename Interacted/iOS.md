@@ -4,15 +4,7 @@
   - ✅ = 1 Approval
   - ❌ = 1 Denial
   - ❓ = Report needs further decision or insight from other testers. 
-      
-25170  
-25164  
-25162     
-23440 (Minor?) ❌   
-25681 (unsupported) ❌❌
-25639
-25623  
-25584          
+     
         
           
                 
